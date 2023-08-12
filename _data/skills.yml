@@ -1,0 +1,55 @@
+languages:
+  - item: Python
+  - item: Java
+  - item: SQL
+  - item: Shell
+  - item: Python
+  - item: SQL
+ 
+
+web:
+  - item: Django
+  - item: React
+  - item: HTML
+  - item: CSS
+  - item: JavaScript
+  - item: ReactJS
+  - item: bootstrap
+  - item: node.js
+  - item: kibana
+ 
+tools:
+  - item: Git
+  - item: Postman
+  - item: Jenkins
+  - item: Terraform
+  - item: Maven
+  - item: npm
+  - item: travis
+  - item: Circleci
+  - item: Jira
+  - item: ELK Stack
+
+cloud:
+  - item: Amazon web services
+  - item: Microsoft Azure
+  - item: Google Cloud Platform
+  - item: kubernetes
+  - item: Docker
+  - item: terraform
+
+os:
+  - item: MacOS
+  - item: Windows
+  - item: Linux
+ 
+data:
+  - item: MySQL
+  - item: SnowSQL
+  - item: SQlite
+  - item: MongoDB
+  - item: Elastic Search
+  - item: Redis
+  - item: logstash
+  - item: rabbitMQ
+  - item: Zookeeper

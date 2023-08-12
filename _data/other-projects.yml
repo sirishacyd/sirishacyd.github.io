@@ -1,0 +1,79 @@
+- name: BookHouse
+  url: https://github.com/sirishacyd/cmpe272_bookhouse
+  code: https://github.com/sirishacyd/cmpe272_bookhouse
+  image: img/featured/bookhouse.gif
+  description: Bookhouse is a enterprise ecommerce website hosted on AWS cloud infrastructure to provide optimal performance, Paypal sandbox used as payment gateway, SSO for authentication , TLS certificate for secure https communication.
+  used:
+    - thing: HTML, CSS, Bootstrap, Javascript
+    - thing: Python Django framework
+    - thing: Jenkins, Visual studio code, PyCharm
+    - thing: EC2, Route 53, ELB, RDS postgreSQL, s3, certificate manager
+    
+
+- name: siricloud
+  url: https://github.com/sirishacyd/siricloud
+  code: https://github.com/sirishacyd/siricloud
+  image: img/featured/bookhouse.gif
+  description: Siri Cloud, Is a icloud clone which lets user store files in cloud and retrieve them whenever they can from where ever they are required.
+  used:
+    - thing: React.js application
+    - thing: node.js application
+    - thing: DynamoDB
+    - thing: Amazon S3
+
+- name: CalorieTracker
+  url: https://github.com/sirishacyd/cmpe282_calorietracker
+  code: https://github.com/sirishacyd/cmpe282_calorietracker
+  image: img/featured/calorietracker.gif
+  description: CalorieTracker-Web application that provides users the features to track daily calorie intake and provide nutritional information on macro nutrients such as fat, carbohydrates, protein for the food item consumed by the user.
+  used:
+    - thing: HTML, Javascript, Bootstrap, ChartJs
+    - thing: Python Django framework
+    - thing: GitHub actions for CI/CD, Visual studio code/any editor, Docker
+
+- name: HealthClub Membership Management
+  url: https://github.com/sirishacyd/cmpe202_HealthClub-Membership-Management-system
+  code: https://github.com/sirishacyd/cmpe202_HealthClub-Membership-Management-system
+  image: img/featured/gym.png
+  description: HealthClub Membership Management system for your favorite Health club/Gym.
+  used:
+    - thing: ReactJS,Bootstrap
+    - thing: Python Django REST Framework
+    - thing: Visual Studio code/Any IDE
+    - thing: PostgreSQL
+    - thing: EC2,Route 53,RDS, Application Load balancer and Auto-Scaling
+
+- name: Carcorner
+  url: https://github.com/sirishacyd/cmpe282_carcorner
+  code: https://github.com/sirishacyd/cmpe282_carcorner
+  image: img/featured/carcorner.png
+  description: Car Corner is a platform for buying and selling used cars. It enables dealers to list vehicles with their details, while customers can browse, filter, and inquire about listings. The website has separate interfaces for customers and admins, and is hosted on the cloud for enhanced security using SSL/TLS certificate.
+  used:
+    - thing: HTML, CSS, Bootstrap, Javascript
+    - thing: Python Django framework
+    - thing: Visual studio code, PyCharm,GitHub actions for CI/CD,Docker
+    - thing: EC2, Route 53, ELB, RDS postgreSQL, s3, certificate manager Third party technologies:Open AI API
+
+- name: Mobile Chatgpt
+  url: https://github.com/sirishacyd/cmpe277_mobile_chatgpt
+  code: https://github.com/sirishacyd/cmpe277_mobile_chatgpt
+  image: img/featured/chatgpt.gif
+  description: Integration of ChatGPT trained models on the Android Mobile Application.
+  used:
+    - thing: Andriod
+    - thing: Python Django framework
+    - thing: Visual studio code
+    - thing: Open AI API
+
+- name: SmartBin 
+  url: https://github.com/sirishacyd/cmpe277_smartbin
+  code: https://github.com/sirishacyd/cmpe277_smartbin
+  image: img/featured/smartbin.gif
+  description: SmartBin is a cost-effective and user-friendly solution that empowers citizens to efficiently dispose of their waste and promotes better waste management throughout the city.
+  used:
+    - thing: Andriod
+    - thing: Firebase database
+    
+    
+   
+
