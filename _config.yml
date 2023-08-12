@@ -1,0 +1,41 @@
+# Site settings
+name: Sirisha Polisetty
+title: Sirisha Polisetty | Cloud Engineer
+description: Enthusiastic Cloud Engineer
+url: https://sirishacyd.github.io/
+baseurl: ''
+email: sirishacyd@gmail.com
+cover: https://sirishacyd.github.io/img/og.png
+logo: https://sirishacyd.github.io/img/emojis/technologist.png
+resume: https://sirishacyd.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:sirishacyd@gmail.com
+  - title: twitter
+    url: https://twitter.com/sirishacyd
+  - title: github
+    url: https://github.com/sirishacyd
+  - title: linkedin
+    url: https://www.linkedin.com/in/sirishacyd
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
