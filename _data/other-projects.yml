@@ -13,7 +13,7 @@
 - name: siricloud
   url: https://github.com/sirishacyd/siricloud
   code: https://github.com/sirishacyd/siricloud
-  image: img/featured/bookhouse.gif
+  image: img/featured/siricloud.png
   description: Siri Cloud, Is a icloud clone which lets user store files in cloud and retrieve them whenever they can from where ever they are required.
   used:
     - thing: React.js application
