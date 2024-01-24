@@ -1,3 +1,23 @@
+- name: Efficient AWS Infrastructure Management
+  url: https://github.com/sirishacyd/aws-ansible-jenkins
+  code: https://github.com/sirishacyd/aws-ansible-jenkins
+  image: img/featured/infra.gif
+  description: Efficient AWS Infrastructure Management with Ansible and Jenkins
+  used:
+    - thing: Jenkins, Ansible, AWS, Docker
+    - thing: Trivy, Boto3, Github
+
+
+- name: Stream Ops
+  url: https://github.com/sirishacyd/streamops
+  code: https://github.com/sirishacyd/streamops
+  image: img/featured/StreamOps.gif
+  description: Building a Netflix Clone with Jenkins, Docker, Kubernetes, Grafana, Prometheus, and Node Exporter
+  used:
+    - thing: Jenkins, Docker, Kubernetes, Grafana, Prometheus
+    - thing: Trivy-scan, tdmb-api, Sonarqube
+ 
+
 - name: BookHouse
   url: https://github.com/sirishacyd/cmpe272_bookhouse
   code: https://github.com/sirishacyd/cmpe272_bookhouse
@@ -73,6 +93,7 @@
   used:
     - thing: Andriod
     - thing: Firebase database
+
     
     
    
