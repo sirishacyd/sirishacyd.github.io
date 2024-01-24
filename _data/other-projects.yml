@@ -2,7 +2,7 @@
   url: https://github.com/sirishacyd/aws-ansible-jenkins
   code: https://github.com/sirishacyd/aws-ansible-jenkins
   image: img/featured/infra.avif
-  description: Efficient AWS Infrastructure Management with Ansible and Jenkins
+  description: This project focuses on utilizing Ansible and Jenkins for efficient AWS infrastructure management. It aims to automate EC2 provisioning through Infrastructure as Code (IaC), ensuring reliable and streamlined deployments.
   used:
     - thing: Jenkins, Ansible, AWS, Docker
     - thing: Trivy, Boto3, Github
@@ -12,7 +12,7 @@
   url: https://github.com/sirishacyd/streamops
   code: https://github.com/sirishacyd/streamops
   image: img/featured/streamops.png
-  description: Building a Netflix Clone with Jenkins, Docker, Kubernetes, Grafana, Prometheus, and Node Exporter
+  description: I engineered a Netflix clone, utilizing Jenkins for continuous integration and deployment (CI/CD), and deployed it in Docker containers orchestrated by a Kubernetes cluster. This system was continuously monitored using Grafana and Prometheus, which were seamlessly integrated with Jenkins for enhanced CI/CD efficiency and detailed metrics tracking.
   used:
     - thing: Jenkins, Docker, Kubernetes, Grafana, Prometheus
     - thing: Trivy-scan, tdmb-api, Sonarqube
