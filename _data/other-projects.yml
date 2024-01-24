@@ -1,7 +1,7 @@
 - name: Efficient AWS Infrastructure Management
   url: https://github.com/sirishacyd/aws-ansible-jenkins
   code: https://github.com/sirishacyd/aws-ansible-jenkins
-  image: img/featured/infra.gif
+  image: img/featured/infra.avif
   description: Efficient AWS Infrastructure Management with Ansible and Jenkins
   used:
     - thing: Jenkins, Ansible, AWS, Docker
@@ -11,7 +11,7 @@
 - name: Stream Ops
   url: https://github.com/sirishacyd/streamops
   code: https://github.com/sirishacyd/streamops
-  image: img/featured/StreamOps.gif
+  image: img/featured/streamops.png
   description: Building a Netflix Clone with Jenkins, Docker, Kubernetes, Grafana, Prometheus, and Node Exporter
   used:
     - thing: Jenkins, Docker, Kubernetes, Grafana, Prometheus
