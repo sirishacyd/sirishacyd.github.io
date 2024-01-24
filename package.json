@@ -1,10 +1,10 @@
 {
-  "name": "sirishapolisetty.com",
+  "name": "package.json",
   "version": "0.0.0",
   "description": "Software engineer with a passion for optimizing infrastructure and processes, ensuring seamless deployments and operations",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sirishacyd/sirishacyd.github.io"
+    "url": "git+https://github.com/sirishacyd/sirishacyd.github.io.git"
   },
   "homepage": "https://github.com/sirishacyd/sirishacyd.github.io",
   "main": "gulpfile.js",
@@ -22,7 +22,12 @@
     "gulp-clean-css": "^4.3.0",
     "gulp-eslint": "^6.0.0",
     "gulp-imagemin": "6.0.0",
-    "gulp-sass": "^4.1.0",
     "gulp-uglify": "3.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/sirishacyd/sirishacyd.github.io/issues"
+  },
+  "dependencies": {
+    "gulp-dart-sass": "^1.1.0"
   }
 }
