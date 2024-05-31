@@ -8,10 +8,15 @@ description: >
   which in turn, learns and indexes all the information. Subsequently, students can use a chat 
   application to ask the model any question pertaining to the course material.
 used:
-  - thing: React, Nodejs, Flask, Aws
-  - thing: llama-index, chromadb, bge-large-en
-  - thing: Mistral-7b, Gemini-pro
-
+  - React
+  - Nodejs
+  - Flask
+  - Aws
+  - llama-index
+  - chromadb
+  - bge-large-en
+  - Mistral-7b
+  - Gemini-pro
 
 
   - name: Efficient AWS Infrastructure Management
