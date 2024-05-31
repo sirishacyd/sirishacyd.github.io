@@ -1,4 +1,16 @@
-- name: Efficient AWS Infrastructure Management
+
+- name: ProfessorAI
+  url: https://github.com/sirishacyd/ProfessorAI
+  code: https://github.com/sirishacyd/ProfessorAI
+  image: img/featured/infra.avif
+  description: ProfessorAI is an application that allows professors to upload course material into the platform, which in turn, learns and indexes all the information. Subsequently, students can use a chat application to ask the model any question pertaining to the course material.
+  used:
+    - thing: React, Nodejs, Flask, Aws
+    - thing: llama-index, chromadb, bge-large-en
+    - thing: Mistral-7b, Gemini-pro
+
+
+  - name: Efficient AWS Infrastructure Management
   url: https://github.com/sirishacyd/aws-ansible-jenkins
   code: https://github.com/sirishacyd/aws-ansible-jenkins
   image: img/featured/infra.avif
